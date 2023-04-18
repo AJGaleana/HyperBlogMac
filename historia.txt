@@ -1,15 +1,10 @@
-Esta es la nueva hisgoria
+Esta es la nueva historia
 Se esta trabajando en crecer esta versión y actualizar lo anterio en base a lo anterior+
-Weldcome 
-Ejemplo
-
-En camara es claro pero es rosita
+Wellcome 
 
 En este ejemplo seguimos aprendiento
 
-
-
-Nueva linea 1
+Nueva linea 1: Cimienza la historia desde aquí
 
 
 
