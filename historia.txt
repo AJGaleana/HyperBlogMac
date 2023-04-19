@@ -6,6 +6,7 @@ En este ejemplo seguimos aprendiento
 
 Nueva linea 1: Cimienza la historia desde aquí
 
+Nueva linea 2: Vamos a guardar esta versión solo en el caso de histori.txt
 
 
 
