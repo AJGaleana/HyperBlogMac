@@ -10,4 +10,5 @@ Nueva linea 2: Vamos a guardar esta versión solo en el caso de histori.txt
 
 Nueva linea 3: Esta linea se va a borrar
 
+Nueva linea 4: Se esta trabajando desde la terminal MAC
 
